@@ -1,0 +1,1 @@
+web: java -Dspring.profiles.active=production -jar build/libs/My-first-API-0.0.1-SNAPSHOT.jar
